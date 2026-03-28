@@ -26,7 +26,7 @@
 Telecom ERP es una aplicación basada en web diseñada para gestionar varios aspectos de un negocio ficticio, incluyendo clientes, proveedores, empleados, productos y facturas.
 Proporciona una interfaz fácil de usar para realizar operaciones CRUD y gestionar flujos de trabajo empresariales de manera eficiente.
 
-Desarrollado por [Avalob](https://github.com/Avalob), [nattfer](https://github.com/nattfer), [ATreCro](https://github.com/ATreCro) y [@zemanue](https://github.com/zemanue).
+Desarrollado por [Avalob](https://github.com/Avalob), [nattfer](https://github.com/nattfer), [ATreCro](https://github.com/ATreCro) y [@manu-reco](https://github.com/manu-reco).
 
 ## Características
 - Autenticación de usuario (inicio de sesión y registro).
@@ -77,7 +77,7 @@ $database = "telecom";
 
 ## Contacto
 Para preguntas o soporte, por favor contacta a:
-- [@zemanue](https://github.com/zemanue)
+- [@manu-reco](https://github.com/manu-reco)
 - [@ATreCro](https://github.com/ATreCro)
 - [@nattfer](https://github.com/nattfer)
 - [@Avalob](https://github.com/Avalob)
@@ -90,7 +90,7 @@ Para preguntas o soporte, por favor contacta a:
 Telecom ERP is a web-based application designed to manage various aspects of a fictional business, including clients, providers, employees, products, and invoices.
 It provides a user-friendly interface for performing CRUD operations and managing business workflows efficiently.
 
-Developed by [Avalob](https://github.com/Avalob), [nattfer](https://github.com/nattfer), [ATreCro](https://github.com/ATreCro) and [@zemanue](https://github.com/zemanue).
+Developed by [Avalob](https://github.com/Avalob), [nattfer](https://github.com/nattfer), [ATreCro](https://github.com/ATreCro) and [@manu-reco](https://github.com/manu-reco).
 
 ## Features
 - User authentication (login and registration).
@@ -141,7 +141,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact
 For questions or support, please contact:
-- [@zemanue](https://github.com/zemanue)
+- [@manu-reco](https://github.com/manu-reco)
 - [@ATreCro](https://github.com/ATreCro)
 - [@nattfer](https://github.com/nattfer)
 - [@Avalob](https://github.com/Avalob)
